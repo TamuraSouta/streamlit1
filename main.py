@@ -1,7 +1,3 @@
-from cgitb import text
-from multiprocessing import Condition
-from socket import fromfd
-from turtle import right
 import streamlit as st
 import numpy as np
 import pandas as pd
